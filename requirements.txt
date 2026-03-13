@@ -1,0 +1,6 @@
+dspy-ai>=2.6.0
+mlflow>=2.16.0
+databricks-sdk>=0.44.0
+transformers>=4.40.0
+torch>=2.1.0
+pandas>=2.0.0
